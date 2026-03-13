@@ -1,5 +1,4 @@
-
-<title>Mini Airline Engine Health monitoring – Status Berwarna</title>
+<title>Airline Engine Health Monitoring – Status Berwarna</title>
 <style>
 body { font-family: Arial, sans-serif; padding: 20px; background-color: #f7f7f7; }
 h1, h2 { color: #2c3e50; }
@@ -16,7 +15,8 @@ th { background-color: #2c3e50; color: #fff; }
 </head>
 <body>
 
-<h1>✈️ Mini Airline Engine Health Dashboard – Status Berwarna</h1>
+<h1>Airline Engine Health Monitoring Status
+ (status will be coloured if reach limit)</h1>
 
 <h2>Flight Info</h2>
 Tanggal: <input type="date" id="flightDate"><br>
