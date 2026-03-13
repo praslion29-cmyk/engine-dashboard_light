@@ -1,4 +1,4 @@
-<title>Airline Engine Health Monitoring – Status Berwarna</title>
+<title>Airline Engine Health Monitoring</title>
 <style>
 body { font-family: Arial, sans-serif; padding: 20px; background-color: #f7f7f7; }
 h1, h2 { color: #2c3e50; }
