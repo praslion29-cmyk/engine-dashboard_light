@@ -1,8 +1,5 @@
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Mini Airline Engine Dashboard – Status Berwarna</title>
+<title>Mini Airline Engine Health monitoring – Status Berwarna</title>
 <style>
 body { font-family: Arial, sans-serif; padding: 20px; background-color: #f7f7f7; }
 h1, h2 { color: #2c3e50; }
